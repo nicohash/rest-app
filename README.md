@@ -2,7 +2,7 @@
 A simple REST API app
 
 
-Welcome to our project 📲! We will be using Notion for project management, including tasks, milestones, and documentation. All useful links will be available on our Notion workspace. Please feel free to join us there.
+Welcome to our project 📲! We will be using Notion for project management, including tasks, milestones, and documentation. All useful links will be available on our Notion workspace. Please feel free to join us there 🤝.
 
 Useful Links
 Notion:
