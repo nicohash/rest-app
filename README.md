@@ -6,4 +6,4 @@ Welcome to our project 📲! We will be using Notion for project management, inc
 
 Useful Links
 Notion:
-https://www.notion.so/Building-an-App-with-a-Rest-API-4155d45d08d64f1685b54f76e0ac1f25#5cbbd6473e0d44f38e0eedd1e6511c06
+https://www.notion.so/Building-an-App-with-a-Rest-API-4155d45d08d64f1685b54f76e0ac1f25?pvs=4
