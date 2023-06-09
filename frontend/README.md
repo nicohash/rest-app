@@ -1,15 +1,13 @@
-# Weather Rest App
+# React Frontend
 
-A simple rest app build with React.js
+A simple weather app build with React.
 
 [Live Demo](https://weathersunrise.de.cool/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If you want to try out our frontend without the API please have a look at the available scripts.
+Note: In order for these commands to work you must be within the /frontend folder!
 
-## APIs used in this project
-
-- [Open Weather Map](https://openweathermap.org/current)
-- [Sunset and Sunrise](https://sunrise-sunset.org/api)
+Our frontend was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
