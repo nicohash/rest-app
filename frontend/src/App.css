@@ -1,0 +1,162 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.top-bar {
+  margin: 20px;
+}
+
+.cards {
+  display: flex;
+}
+
+.card {
+  background-color: #fff;
+  font-size: calc(10px + 2vmin);
+  margin: 5px 15px;
+  min-width: 400px;
+  max-width: 100%;
+  min-height: 502px;
+  padding: 15px 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.card-inner {
+  margin-top: 2rem;
+  display: flex;
+}
+
+.card-inner-loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+p {
+  margin: 0;
+}
+h4 {
+  margin: 0;
+}
+
+.bottom-info .col {
+  font-size: 22px;
+  color: #1c1c1c;
+  letter-spacing: -0.75px;
+  margin-top: 2rem;
+}
+.bottom-info h4 {
+  font-weight: 400;
+  font-size: 18px;
+  color: #888888;
+  letter-spacing: -0.62px;
+  margin-bottom: 0.9rem;
+}
+
+.row {
+  display: flex;
+}
+.col {
+  flex: 0 0 50%;
+}
+
+.currentTime {
+  font-size: 18px;
+  color: #888888;
+  letter-spacing: -0.62px;
+}
+.currentWeather {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+.currentWeather img {
+  width: 6rem;
+  margin-right: 1.5rem;
+}
+.currentWeather .deg {
+  margin-top: 5px;
+}
+.currentWeather .sup {
+  font-weight: 700;
+  font-size: 20px;
+  color: #1c1c1c;
+  letter-spacing: -0.68px;
+  margin-top: 6px;
+  margin-left: 6px;
+}
+.cityTitle {
+  font-weight: 700;
+  font-size: 24px;
+  color: #1c1c1c;
+  letter-spacing: -0.82px;
+  line-height: 1;
+}
+.temp-wrapper {
+  display: flex;
+  align-items: center;
+}
+.main-inner {
+  display: flex;
+  flex-wrap: wrap;
+}
+.widget {
+  position: relative;
+  width: 100%;
+  margin-bottom: 22px;
+}
+.temp-big {
+  font-weight: 700;
+  font-size: 58px;
+  color: #1c1c1c;
+  letter-spacing: -1.98px;
+}
+.feelsLike {
+  font-weight: 500;
+  font-size: 21px;
+  color: #1c1c1c;
+  letter-spacing: 0;
+  text-align: center;
+}
+.textWeather {
+  font-weight: 700;
+  font-size: 31px;
+  color: #1c1c1c;
+  letter-spacing: -1.06px;
+}
+
+.footer img {
+  width: 1.5rem;
+}
