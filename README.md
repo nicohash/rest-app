@@ -9,9 +9,7 @@ It can be accessed at https://weathersunrise.de.cool/.
 
 We could not include the API at server level because we would have needed a paid subscription from our provider for this.
 
-The React frontend can also be used without the API. More info on this [here](frontend/README.md).
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Our frontend was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
 
@@ -26,13 +24,11 @@ cd ~/weather-rest-app
 python -m flask run
 ```
 
-### Hint
+### Hints
 
-U may need to use the python3 command instead depending on your configuration
+The React frontend can also be used without the API. More info on this [here](frontend/README.md).
 
 ## APIs used in this project
 
 - [Open Weather Map](https://openweathermap.org/current)
 - [Sunset and Sunrise](https://sunrise-sunset.org/api)
-
-## 
